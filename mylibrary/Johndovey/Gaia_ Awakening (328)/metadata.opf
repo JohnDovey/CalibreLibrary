@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb0ae166-1acd-4dc1-9c6f-1c347dd1dcea</dc:identifier>
+        <dc:title>Gaia: Awakening</dc:title>
+        <dc:creator opf:file-as="Johndovey" opf:role="aut">Johndovey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-20T01:35:35+00:00</dc:date>
+        <dc:description>Bill is exploring the Mayan ruins in Belize. Join him in his journey as he explores and discovers something that has lain hidden for aeons, something that will eventually have world reaching implications.
+
+ Check out The System (https://johndovey.github.io/TheSystem/)</dc:description>
+        <dc:publisher>www.wattpad.com</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://www.wattpad.com/story/259433728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>litrpg</dc:subject>
+        <dc:subject>fantasy</dc:subject>
+        <dc:subject>adventure</dc:subject>
+        <dc:subject>In-Progress</dc:subject>
+        <dc:subject>FanFiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johndovey&quot;: &quot;https://www.wattpad.com/user/JohnDovey&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-23T06:20:48.896778+00:00"/>
+        <meta name="calibre:title_sort" content="Gaia: Awakening"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;Num of Pages&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: 9, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;default_value&quot;: 0, &quot;description&quot;: &quot;Num of Words&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 2890, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

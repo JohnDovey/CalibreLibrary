@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d54b8eb-36eb-4090-b7d9-7cddecfaed6c</dc:identifier>
+        <dc:title>Mail Order Bride (Novel)</dc:title>
+        <dc:creator opf:file-as="Johndovey" opf:role="aut">Johndovey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-27T17:08:46+00:00</dc:date>
+        <dc:description>Being lonely is a bitch. Rupert has been divorced for over a year and can't seem to manage the dating scene. His daughter pushes him into investigating a Russian Mail-Order Bride site and to his surprise, he is soon busy arranging for the visit of one of the woman he meets online.
+Note: BoonDock (on the cover) is my pseudonym/nom de guerre :-)</dc:description>
+        <dc:publisher>www.wattpad.com</dc:publisher>
+        <dc:identifier opf:scheme="WATTPAD">20386979</dc:identifier>
+        <dc:identifier opf:scheme="URL">https://www.wattpad.com/story/20386979</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>bị</dc:subject>
+        <dc:subject>somesexualcontent</dc:subject>
+        <dc:subject>In-Progress</dc:subject>
+        <dc:subject>1st</dc:subject>
+        <dc:subject>consensual</dc:subject>
+        <dc:subject>harem</dc:subject>
+        <dc:subject>prostitution</dc:subject>
+        <dc:subject>mult</dc:subject>
+        <dc:subject>africa</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>south</dc:subject>
+        <dc:subject>violent</dc:subject>
+        <dc:subject>slow</dc:subject>
+        <dc:subject>FanFiction</dc:subject>
+        <dc:subject>relationship-complicated</dc:subject>
+        <dc:subject>romantic</dc:subject>
+        <dc:subject>relationship</dc:subject>
+        <dc:subject>General Fiction</dc:subject>
+        <dc:subject>adventure</dc:subject>
+        <dc:subject>mf</dc:subject>
+        <dc:subject>poly</dc:subject>
+        <dc:subject>mail-order</dc:subject>
+        <dc:subject>marriage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johndovey&quot;: &quot;https://www.wattpad.com/user/JohnDovey&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-02-23T05:48:46.084376+00:00"/>
+        <meta name="calibre:title_sort" content="Mail Order Bride (Novel)"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;Num of Pages&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: 108, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;default_value&quot;: 0, &quot;description&quot;: &quot;Num of Words&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 33220, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
